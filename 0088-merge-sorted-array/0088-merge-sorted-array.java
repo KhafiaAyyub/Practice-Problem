@@ -21,8 +21,6 @@ class Solution {
                 k--;
                 j--;
             }
-         }
-
-         
+         }  
     }
 }
