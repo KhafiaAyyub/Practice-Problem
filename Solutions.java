@@ -109,6 +109,8 @@ class Solution {
 //Find Pivot Index
 class Solution {
     public int pivotIndex(int[] nums) {
+        //TC - O(n)
+        //SP - O(1)
         int sum=0;
         for(int i=0;i<nums.length;i++){
             sum+=nums[i];
