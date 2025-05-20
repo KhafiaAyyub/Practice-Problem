@@ -106,3 +106,9 @@ class Solution {
     }
 }
 
+//Find Pivot Index
+
+
+
+
+
