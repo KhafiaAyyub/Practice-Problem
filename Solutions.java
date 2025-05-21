@@ -127,6 +127,7 @@ class Solution {
 }
 
 //Majority Element
+1.Using hashmap this will increase SP
 
 
 
