@@ -128,6 +128,9 @@ class Solution {
 
 //Majority Element
 1.Using hashmap this will increase SP
+2.Moore's Voting Algorithm
+    step1: Find the majority element to majority element
+    step: Confirm weather it is majority element
 
 
 
