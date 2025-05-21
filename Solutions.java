@@ -126,6 +126,8 @@ class Solution {
     }
 }
 
+//Majority Element
+
 
 
 
