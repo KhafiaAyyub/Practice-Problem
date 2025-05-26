@@ -133,8 +133,6 @@ class Solution {
     step: Confirm weather it is majority element
 
 
-
-
 //Fibonacci Number
 
 
