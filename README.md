@@ -22,6 +22,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1013-fibonacci-number](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +49,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
