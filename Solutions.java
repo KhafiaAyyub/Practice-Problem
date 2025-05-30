@@ -132,6 +132,5 @@ class Solution {
     step1: Find the majority element to majority element
     step: Confirm weather it is majority element
 
-
 //Fibonacci Number
 
