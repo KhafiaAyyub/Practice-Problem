@@ -129,7 +129,6 @@ class Solution {
     }
 }
 
-
 //Majority Element
 1.Using hashmap this will increase SP
 2.Moore's Voting Algorithm
