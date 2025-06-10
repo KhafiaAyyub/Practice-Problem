@@ -107,8 +107,6 @@ class Solution {
     }
 }
 
-
-
 //Find Pivot Index
 class Solution {
     public int pivotIndex(int[] nums) {
