@@ -15,7 +15,6 @@ class Solution {
 
 
 
-ye
 
 //Best Time to Buy and Sell Stock
 //sol1:
