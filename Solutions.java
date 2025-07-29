@@ -193,7 +193,7 @@ class Solution {
 }
 
 
-# Valid Palindrome
+# Counting Bits
 
     class Solution {
     public int[] countBits(int n) {
