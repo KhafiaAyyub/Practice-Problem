@@ -177,6 +177,21 @@ class Solution {
     }
 }
 
+# Single Number
+    1. HashMap but it will increase the TC and SC
+    2. Using XOR - Linear time complexity O(n)
+    
+class Solution {
+    public int singleNumber(int[] nums) {
+        
+        int val = 0;
+        for(int i=0;i<nums.length;i++){
+            val = val ^ nums[i];
+        }
+        return val;
+    }
+}
+
 
 # Valid Palindrome
 
