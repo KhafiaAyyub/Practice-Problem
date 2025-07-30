@@ -8,6 +8,7 @@
 | [0088-merge-sorted-array](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/0169-majority-element) |
 | [0724-find-pivot-index](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/1019-squares-of-a-sorted-array) |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/0392-is-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
