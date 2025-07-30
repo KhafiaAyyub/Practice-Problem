@@ -23,6 +23,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -74,4 +75,5 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/KhafiaAyyub/Practice-Problem/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
