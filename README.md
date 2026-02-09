@@ -6,6 +6,7 @@
 
 
 # LeetCode Topics
+
 ## Array
 |  |
 | ------- |
