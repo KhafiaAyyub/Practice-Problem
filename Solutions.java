@@ -12,7 +12,6 @@ class Solution {
                     {
                         return new int[] {i,j};
                     }   
-                
             }
         }  
         return null;
