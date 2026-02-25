@@ -1,9 +1,5 @@
 
 
-
-
-
-
 //Two sum
 # Brute Force
 class Solution {
