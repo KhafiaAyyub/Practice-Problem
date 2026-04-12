@@ -3,7 +3,6 @@
 
 
 # Brute Force
- 
 class Solution {
 
     
