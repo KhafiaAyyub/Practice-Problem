@@ -8,8 +8,7 @@ class Solution {
                     if(nums[i] + nums[j] == target)
                         
                     {
-                        return new int[] {i,j};
-                        
+                        return new int[] {i,j};       
                     }   
             }
         }  
