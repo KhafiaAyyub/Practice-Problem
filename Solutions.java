@@ -1,11 +1,5 @@
 
 
-
-
-
-
-
-
 //Two sum
 
 # Brute Force
