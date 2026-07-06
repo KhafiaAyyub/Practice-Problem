@@ -12,7 +12,7 @@ class Solution{
              
    return new int[] {i,j};  
                         
-                    }                    } 
+                    }      } 
             
             }
         }    
@@ -24,10 +24,6 @@ class Solution{
 //Best Time to Buy and Sell Stock 
 //sol1:
 //7,1,5,3,6,4
-
-
-
-
 
 
 //1,2,3,4,5,6 //6-1=5 
