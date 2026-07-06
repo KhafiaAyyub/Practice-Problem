@@ -12,8 +12,8 @@ class Solution{
              
    return new int[] {i,j};  
                         
-                    }      } 
-            
+                    }      
+            } 
             }
         }    
     
