@@ -4,11 +4,6 @@
 //Two sum
 
 
-
-
-
-
-
 # Brute Force    
 
     
