@@ -1,10 +1,6 @@
 
 
-
-
-
-
-m//Two sum
+//Two sum
 
 
 # Brute Force     
